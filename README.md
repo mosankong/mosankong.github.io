@@ -1,2 +1,2 @@
-# mosankong..github.io
+# mosankong.github.io
 index
